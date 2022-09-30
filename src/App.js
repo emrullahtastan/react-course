@@ -18,19 +18,19 @@ function App() {
       img: "https://cdn-i.pr.trt.com.tr/trtsales/g/images/content/1-wide.jpeg",
     },
     {
-      id: 2,
+      id: 3,
       title: "Z",
       img: "https://cdn-i.pr.trt.com.tr/trtsales/g/images/content/1-wide.jpeg",
     },
     {
-      id: 2,
+      id: 4,
       title: "Z",
       img: "https://cdn-i.pr.trt.com.tr/trtsales/g/images/content/1-wide.jpeg",
     },
-    {
-      id: 2,
-      title: "Z",
 
+    {
+      id: 2,
+      title: "Z",
       img: "https://cdn-i.pr.trt.com.tr/trtsales/g/images/content/1-wide.jpeg",
     },
   ];
