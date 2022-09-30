@@ -27,9 +27,8 @@ function App() {
       title: "Z",
       img: "https://cdn-i.pr.trt.com.tr/trtsales/g/images/content/1-wide.jpeg",
     },
-
     {
-      id: 2,
+      id: 5,
       title: "Z",
       img: "https://cdn-i.pr.trt.com.tr/trtsales/g/images/content/1-wide.jpeg",
     },
